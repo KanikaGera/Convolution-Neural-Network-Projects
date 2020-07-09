@@ -15,4 +15,9 @@
           This Project is implementing Residual Network from basic.
     </p>
   </li>
+  <li><h2> Art Generation </h2>
+      <p>
+          This Project is implementing art generation using CNN .
+    </p>
+  </li>
  </ul>
